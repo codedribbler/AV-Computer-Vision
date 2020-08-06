@@ -8,4 +8,6 @@ The objective of the Hackthon is to classify vehicle as emergency or not.
 ![alt text](notemg.994.jpg "Not Emergency")
 
 
-Pytorch has been used to work for the Project.
+- Pytorch has been used to work for the Project.
+- Transfer learning used by taking pretrained resnet-50 .
+- The best accuracy in the test data was 0.976076555023923	.
