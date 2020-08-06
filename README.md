@@ -4,7 +4,8 @@ Computer Vision <a href="https://datahack.analyticsvidhya.com/contest/janatahack
 The objective of the Hackthon is to classify vehicle as emergency or not.
 
 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Emergency")
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Not Emergency")
+![alt text](emg.0.jpg "Emergency")
+![alt text](notemg.994.jpg "Not Emergency")
 
 
+Pytorch has been used to work for the Project.
